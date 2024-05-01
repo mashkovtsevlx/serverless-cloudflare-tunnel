@@ -1,6 +1,6 @@
 {
   "name": "serverless-cloudflare-tunnel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This Serverless plugin creates a Cloudflare tunnel for your serverless offline endpoints.",
   "main": "index.js",
   "scripts": {
