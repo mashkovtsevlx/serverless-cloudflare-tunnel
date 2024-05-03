@@ -1,6 +1,6 @@
 {
   "name": "serverless-cloudflare-tunnel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This Serverless plugin creates a Cloudflare tunnel for your serverless offline endpoints.",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,16 @@
   },
   "keywords": [
     "serverless",
-    "serverless-offline",
-    "cloudflare"
+    "cloudflare",
+    "serverless offline",
+    "serverless framework",
+    "serverless plugin",
+    "aws",
+    "amazon web services",
+    "http",
+    "api gateway",
+    "lambda",
+    "tunnel"
   ],
   "author": "Alex Mashkovtsev <alex@inso.codes>",
   "license": "MIT",
