@@ -1,10 +1,8 @@
 # Serverless Cloudflare Tunnel
 
-<p>
-  <a href="https://www.serverless.com">
-    <img src="http://public.serverless.com/badges/v3.svg">
-  </a>
-</p>
+[![serverless](http://public.serverless.com/badges/v3.svg)](https://www.serverless.com)
+[![npm version](https://img.shields.io/npm/v/serverless-cloudflare-tunnel?color=brightgreen&label=npm%20package)](https://www.npmjs.com/package/serverless-cloudflare-tunnel)
+[![npm downloads](https://img.shields.io/npm/dm/serverless-cloudflare-tunnel)](https://www.npmjs.com/package/serverless-cloudflare-tunnel)
 
 This [Serverless](https://github.com/serverless/serverless) plugin creates a Cloudflare tunnel for your serverless offline endpoints.
 
